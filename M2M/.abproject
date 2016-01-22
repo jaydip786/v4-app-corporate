@@ -1,0 +1,45 @@
+{
+  "ProjectName": "M2M",
+  "ProjectGuid": "6f2e8250-a929-4c2d-86a5-39ddd5cc9f76",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.M2M",
+  "DisplayName": "M2M",
+  "Author": "",
+  "Description": "M2M",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{683efa8f-6c02-465f-94cc-c7f385a71c8e}",
+  "WP8ProductID": "{3b640fd2-2ace-489c-a773-4004d702fd1e}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.M2M",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
